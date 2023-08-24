@@ -1,1 +1,1 @@
-# ThesisProjectCNN
+Thesis Project
